@@ -33,10 +33,8 @@ Install the necessary dependencies for the Angular application.
 Configure the API endpoints to connect with the backend.
 Run the Angular application.
 Access the application in your web browser at http://localhost:3000 or the specified port.
-Contributing
+#Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 #License
-This project is licensed under the MIT License.
-
-Feel free to customize the README.md file according to your specific project requirements. Remember to update the repository name and the steps for setting up the backend and frontend based on your project's structure and configuration.
+This project is licensed under the MIT
