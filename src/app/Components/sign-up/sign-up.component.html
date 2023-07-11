@@ -59,7 +59,7 @@
                                     <span (click)="hideShowPass()" class="fa {{eyeIcon}}"></span>
                                 </div>
                             </div>
-                            <button type="submit" class="btn btn-primary btn-block mt-4 w-100">sign up </button>
+                            <button type="submit" (click)="onSignUp()"  class="btn btn-primary btn-block mt-4 w-100">sign up </button>
                             <div class="text-center pt-4 w-100 text-muted" > Already have an account?<a id="forget" routerLink= "/login"> Login</a></div>
                             
                         </form>
